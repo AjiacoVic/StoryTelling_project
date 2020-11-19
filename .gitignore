@@ -6,9 +6,11 @@ bin-release/
 [Bb]in/
 
 # Other files and folders
+data/
 .settings/
 .DS_Store
-data/
+.Toignore
+
 # Executables
 *.swf
 *.air
